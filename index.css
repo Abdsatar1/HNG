@@ -1,0 +1,21 @@
+img {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+
+.slack-info {
+    text-align: center;
+} 
+
+.Why {
+    background-color: dimgray;
+    margin: 50px;
+    padding: 20px;
+}
+
+.Why {
+    margin: 0, 20px;
+}
